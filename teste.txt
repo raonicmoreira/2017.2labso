@@ -1,0 +1,6 @@
+teste fim de linha
+teste 2
+
+acrescenta mais uma linha
+mais duas
+eof
